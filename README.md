@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/devopsmanish0497/partsunlimited/_apis/build/status/rajpalmanish.ContosoAir?branchName=master)](https://dev.azure.com/devopsmanish0497/partsunlimited/_build/latest?definitionId=5&branchName=master)
 
 
 # Microsoft.Github CI Demo
